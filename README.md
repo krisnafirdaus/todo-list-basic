@@ -2,4 +2,4 @@
 
 ## You can see project
 
-- https://github.com/krisnafirdaus/todo-list-basic.git
+- https://krisnafirdaus.github.io/todo-list-basic
